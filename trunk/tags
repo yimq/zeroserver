@@ -1,0 +1,48 @@
+!_TAG_FILE_FORMAT	1	/supported features/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted/
+!_TAG_PROGRAM_AUTHOR	Steve Kirkendall	/kirkenda@cs.pdx.edu/
+!_TAG_PROGRAM_NAME	Elvis Ctags	//
+!_TAG_PROGRAM_URL	ftp://ftp.cs.pdx.edu/pub/elvis/README.html	/official site/
+!_TAG_PROGRAM_VERSION	2.2.0	//
+BACKLOG	zero_common.h	9
+FALSE	zero_common.h	12
+INT_TO_POINTER	zero_common.h	20
+POINTER_TO_INT	zero_common.h	19
+TRUE	zero_common.h	16
+WORKER_LEN	zero_common.h	8
+ZERO_COMMON_H_	zero_common.h	2
+ZERO_QUEUE_H_	zero_queue.h	2
+ZERO_SERVER_H_	zero_server.h	2
+ZERO_THREAD_H_	zero_thread.h	2
+zero_new	zero_common.h	10
+!_TAG_FILE_FORMAT	1	/supported features/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted/
+!_TAG_PROGRAM_AUTHOR	Steve Kirkendall	/kirkenda@cs.pdx.edu/
+!_TAG_PROGRAM_NAME	Elvis Ctags	//
+!_TAG_PROGRAM_URL	ftp://ftp.cs.pdx.edu/pub/elvis/README.html	/official site/
+!_TAG_PROGRAM_VERSION	2.2.0	//
+BACKLOG	zero_common.h	9
+FALSE	zero_common.h	12
+INT_TO_POINTER	zero_common.h	20
+POINTER_TO_INT	zero_common.h	19
+TRUE	zero_common.h	16
+WORKER_LEN	zero_common.h	8
+ZERO_COMMON_H_	zero_common.h	2
+ZERO_QUEUE_H_	zero_queue.h	2
+ZERO_SERVER_H_	zero_server.h	2
+ZERO_THREAD_H_	zero_thread.h	2
+main	test.c	/^int main(int argc,char **argv){$/
+sock_set_non_block	zero_thread.c	/^void sock_set_non_block(int fd){$/
+zero_arbiter_init	zero_thread.c	/^boolean zero_arbiter_init(zero_arbiter_thread *th){$/
+zero_arbiter_start	zero_thread.c	/^boolean zero_arbiter_start(zero_arbiter_thread *th){$/
+zero_new	zero_common.h	10
+zero_queue_item_free	zero_queue.c	/^void zero_queue_item_free(zero_queue_item *item){$/
+zero_queue_item_new	zero_queue.c	/^zero_queue_item *zero_queue_item_new() {$/
+zero_queue_new	zero_queue.c	/^zero_queue *zero_queue_new(){$/
+zero_queue_pop	zero_queue.c	/^void *zero_queue_pop(zero_queue *queue){$/
+zero_queue_push	zero_queue.c	/^void zero_queue_push(zero_queue *queue,void *data){$/
+zero_server_create	zero_server.c	/^zero_server* zero_server_create(int port){$/
+zero_server_start	zero_server.c	/^boolean zero_server_start(zero_server *server){$/
+zero_sleep	zero_server.c	/^void zero_sleep(int ms){$/
+zero_worker_init	zero_thread.c	/^void zero_worker_init(zero_worker_thread *th){$/
+zero_worker_start	zero_thread.c	/^void zero_worker_start(zero_worker_thread *th){$/
